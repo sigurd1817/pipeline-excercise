@@ -11,13 +11,14 @@ on:
 
 jobs:
 
-test:
-runs-on: windows-latest
-steps:
-  - uses: actions/checkout@v4
-  - name: Run tests
-    working-directory: ./UnitTests.Invariance
-    run: dotnet test
+  test:
+    runs-on: windows-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run tests
+        working-directory: ./UnitTests.Invariance
+        run: dotnet test
 
   build:
     runs-on: windows-latest
