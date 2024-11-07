@@ -10,8 +10,19 @@ on:
   workflow_dispatch:
 
 jobs:
+
+test:
+runs-on: windows-latest
+
+steps:
+  - uses: actions/checkout@v4
+  - name: Run tests
+    working-directory: ./UnitTests.Invariance
+    run: dotnet test
+
   build:
     runs-on: windows-latest
+    needs: test
 
     steps:
       - uses: actions/checkout@v4
@@ -32,6 +43,7 @@ jobs:
         with:
           name: .net-app
           path: ${{env.DOTNET_ROOT}}/myapp
+
 
   deploy:
     runs-on: windows-latest
