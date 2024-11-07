@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\softwareSikkerhedØvelser\\øvelse36\\UnitTests.Invariance\\UnitTests.Invariance.csproj": {}
+    "C:\\ItSikkerhed\\Uge 45 software sikkerhed\\pipeline-excercise\\UnitTests.Invariance\\UnitTests.Invariance.csproj": {}
   },
   "projects": {
-    "C:\\Source\\softwareSikkerhedØvelser\\øvelse36\\UnitTests.Invariance\\UnitTests.Invariance.csproj": {
+    "C:\\ItSikkerhed\\Uge 45 software sikkerhed\\pipeline-excercise\\UnitTests.Invariance\\UnitTests.Invariance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\softwareSikkerhedØvelser\\øvelse36\\UnitTests.Invariance\\UnitTests.Invariance.csproj",
+        "projectUniqueName": "C:\\ItSikkerhed\\Uge 45 software sikkerhed\\pipeline-excercise\\UnitTests.Invariance\\UnitTests.Invariance.csproj",
         "projectName": "UnitTests.Invariance",
-        "projectPath": "C:\\Source\\softwareSikkerhedØvelser\\øvelse36\\UnitTests.Invariance\\UnitTests.Invariance.csproj",
-        "packagesPath": "C:\\Users\\MESN9888\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\softwareSikkerhedØvelser\\øvelse36\\UnitTests.Invariance\\obj\\",
+        "projectPath": "C:\\ItSikkerhed\\Uge 45 software sikkerhed\\pipeline-excercise\\UnitTests.Invariance\\UnitTests.Invariance.csproj",
+        "packagesPath": "C:\\Users\\sigur\\.nuget\\packages\\",
+        "outputPath": "C:\\ItSikkerhed\\Uge 45 software sikkerhed\\pipeline-excercise\\UnitTests.Invariance\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\MESN9888\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sigur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Source\\softwareSikkerhedØvelser\\øvelse36\\øvelse26\\ValidateTheNameModelBinding.csproj": {
-                "projectPath": "C:\\Source\\softwareSikkerhedØvelser\\øvelse36\\øvelse26\\ValidateTheNameModelBinding.csproj"
+              "C:\\ItSikkerhed\\Uge 45 software sikkerhed\\pipeline-excercise\\øvelse26\\ValidateTheNameModelBinding.csproj": {
+                "projectPath": "C:\\ItSikkerhed\\Uge 45 software sikkerhed\\pipeline-excercise\\øvelse26\\ValidateTheNameModelBinding.csproj"
               }
             }
           }
@@ -42,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -86,25 +77,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Source\\softwareSikkerhedØvelser\\øvelse36\\øvelse26\\ValidateTheNameModelBinding.csproj": {
+    "C:\\ItSikkerhed\\Uge 45 software sikkerhed\\pipeline-excercise\\øvelse26\\ValidateTheNameModelBinding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\softwareSikkerhedØvelser\\øvelse36\\øvelse26\\ValidateTheNameModelBinding.csproj",
+        "projectUniqueName": "C:\\ItSikkerhed\\Uge 45 software sikkerhed\\pipeline-excercise\\øvelse26\\ValidateTheNameModelBinding.csproj",
         "projectName": "ValidateTheNameModelBinding",
-        "projectPath": "C:\\Source\\softwareSikkerhedØvelser\\øvelse36\\øvelse26\\ValidateTheNameModelBinding.csproj",
-        "packagesPath": "C:\\Users\\MESN9888\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\softwareSikkerhedØvelser\\øvelse36\\øvelse26\\obj\\",
+        "projectPath": "C:\\ItSikkerhed\\Uge 45 software sikkerhed\\pipeline-excercise\\øvelse26\\ValidateTheNameModelBinding.csproj",
+        "packagesPath": "C:\\Users\\sigur\\.nuget\\packages\\",
+        "outputPath": "C:\\ItSikkerhed\\Uge 45 software sikkerhed\\pipeline-excercise\\øvelse26\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\MESN9888\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sigur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -124,11 +111,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -145,6 +127,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -153,7 +153,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

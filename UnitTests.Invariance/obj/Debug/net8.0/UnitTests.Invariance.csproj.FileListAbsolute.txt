@@ -106,3 +106,13 @@ C:\Source\softwareSikkerhedØvelser\øvelse36\UnitTests.Invariance\obj\Debug\net
 C:\Source\softwareSikkerhedØvelser\øvelse36\UnitTests.Invariance\obj\Debug\net8.0\UnitTests.Invariance.pdb
 C:\Source\softwareSikkerhedØvelser\øvelse36\UnitTests.Invariance\obj\Debug\net8.0\UnitTests.Invariance.genruntimeconfig.cache
 C:\Source\softwareSikkerhedØvelser\øvelse36\UnitTests.Invariance\obj\Debug\net8.0\ref\UnitTests.Invariance.dll
+C:\ItSikkerhed\Uge 45 software sikkerhed\pipeline-excercise\UnitTests.Invariance\obj\Debug\net8.0\UnitTests.Invariance.dll
+C:\ItSikkerhed\Uge 45 software sikkerhed\pipeline-excercise\UnitTests.Invariance\obj\Debug\net8.0\refint\UnitTests.Invariance.dll
+C:\ItSikkerhed\Uge 45 software sikkerhed\pipeline-excercise\UnitTests.Invariance\obj\Debug\net8.0\UnitTests.Invariance.pdb
+C:\ItSikkerhed\Uge 45 software sikkerhed\pipeline-excercise\UnitTests.Invariance\bin\Debug\net8.0\CoverletSourceRootsMapping_UnitTests.Invariance
+C:\ItSikkerhed\Uge 45 software sikkerhed\pipeline-excercise\UnitTests.Invariance\obj\Debug\net8.0\UnitTests.Invariance.csproj.AssemblyReference.cache
+C:\ItSikkerhed\Uge 45 software sikkerhed\pipeline-excercise\UnitTests.Invariance\obj\Debug\net8.0\UnitTests.Invariance.GeneratedMSBuildEditorConfig.editorconfig
+C:\ItSikkerhed\Uge 45 software sikkerhed\pipeline-excercise\UnitTests.Invariance\obj\Debug\net8.0\UnitTests.Invariance.AssemblyInfoInputs.cache
+C:\ItSikkerhed\Uge 45 software sikkerhed\pipeline-excercise\UnitTests.Invariance\obj\Debug\net8.0\UnitTests.Invariance.AssemblyInfo.cs
+C:\ItSikkerhed\Uge 45 software sikkerhed\pipeline-excercise\UnitTests.Invariance\obj\Debug\net8.0\UnitTests.Invariance.csproj.CoreCompileInputs.cache
+C:\ItSikkerhed\Uge 45 software sikkerhed\pipeline-excercise\UnitTests.Invariance\obj\Debug\net8.0\UnitTests.Invariance.sourcelink.json

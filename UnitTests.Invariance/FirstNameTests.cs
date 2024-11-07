@@ -10,7 +10,7 @@ public class FirstNameTests
     {
         Exception thrownException = Record.Exception(() => new Firstname("Martin"));
 
-        Assert.Null(thrownException);00
+        Assert.Null(thrownException);
     }
     [Fact]
     public void Does_Throw__Argument_Length_ExceptionException_When_Name_Length_Is_Less_Than_Two_Characters_Shorts()

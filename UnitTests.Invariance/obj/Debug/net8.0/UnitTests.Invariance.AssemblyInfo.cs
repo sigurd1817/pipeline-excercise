@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnitTests.Invariance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35061857a3e5c4524bd2c0c35b98dac6212ec032")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnitTests.Invariance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnitTests.Invariance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
